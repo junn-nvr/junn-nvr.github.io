@@ -4,7 +4,7 @@ My personal website built with React and Vite.
 
 ## About
 
-This is the source code for my personal website hosted at [june-navarro.github.io](https://june-navarro.github.io).
+This is the source code for my personal website hosted at [june-navarro.github.io](https://june-navarro.github.io/).
 
 ## Tech Stack
 
