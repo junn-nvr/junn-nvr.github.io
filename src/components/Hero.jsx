@@ -11,12 +11,6 @@ function Hero() {
           </p>
         </div>
 
-        <p className="hero-description">
-          Welcome to my personal website. I'm passionate about building innovative solutions
-          and exploring cutting-edge technologies. This is a brief introduction about yourself,
-          your interests, and what you do.
-        </p>
-
         <div className="social-links">
           <a href="https://github.com/junn-nvr" target="_blank" rel="noopener noreferrer">
             <svg width="24" height="24" viewBox="0 0 24 24" fill="currentColor">
